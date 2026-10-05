@@ -7,7 +7,7 @@ I am currently a student at NTNU and studying Data-engineering. On my free time 
 
 #### PowerShell scripts and fun programming:
 Most of my high qulity scripts are powershell atleast from before i started studying at NTNU. It ranges from usefull scripts in Active directory to something fun like beeping the imperial march from Star Wars. 
-<https://github.com/TheQuate/Powershell-script-project>
+[Powershell repo]<https://github.com/TheQuate/Powershell-script-project>
 
 #### Java programming - Projects from studies 
 
