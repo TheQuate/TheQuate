@@ -17,7 +17,7 @@ Ofcourse as most programmers i have done som python programming. But aswell i ha
 
 [Kalkulator in HTML (former school project)](https://github.com/TheQuate/Calculator-project)
 
-### My work with 3d models and design
+#### My work with 3d models and design
 I have also done some design and 3d modeling. Most of which was done in blender. 
 
 [INSERT PICTURE HERE]
