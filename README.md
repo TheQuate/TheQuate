@@ -5,7 +5,7 @@ Hello! My name is Joakim and this is my e-portfolio and my github page.
 
 I am currently a student at NTNU and studying Data-engineering. On my free time i mostely game and play music, but there are some coding being done as well and that is what will be put here. 
 
-[Image of me]<img width="382" height="635,5" alt="Bilde til github" src="https://github.com/user-attachments/assets/02ed1158-7c39-4b1b-bbb2-330ddcb05236" />
+<img width="382" height="635,5" alt="Bilde til github" src="https://github.com/user-attachments/assets/02ed1158-7c39-4b1b-bbb2-330ddcb05236" />
 <!-- width = 764, height = 1271-->
 
 #### PowerShell scripts and fun programming:
@@ -35,7 +35,7 @@ joakim.sandum.thrane@gmail.com
 Linkdin link: 
 [My linkdin](https://www.linkedin.com/in/joakim-sandum-thrane-0877022b5/)
 
-- 
+#### As a last note take a look at the rest and see if you like anything, thank you. 
 <!--
 **TheQuate/TheQuate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
