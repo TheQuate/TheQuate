@@ -12,8 +12,12 @@ I am currently a student at NTNU and studying Data-engineering. On my free time 
 Most of my high qulity scripts are powershell atleast from before i started studying at NTNU. It ranges from usefull scripts in Active directory to something fun like beeping the imperial march from Star Wars. 
 [Powershell repo](https://github.com/TheQuate/Powershell-script-project)
 
-#### Java programming - Projects from studies 
-WIP - currently taking courses and have not made any major projects yet. 
+#### Projects from studies 
+WIP - currently working on several projects that are to be added.
+
+##### Lego Spike prime project
+In our Teambased course we buildt some lego robots and learned how to work together as a team. It was very fun to work hands on with something i created and see what small changes in programming could do to a product. 
+Images of lego robots to be added (they are not done yet)
 
 #### Python and other projects
 Ofcourse as most programmers i have done som python programming. But aswell i have dablled in website design and other languages.
