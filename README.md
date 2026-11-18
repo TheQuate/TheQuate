@@ -21,6 +21,10 @@ Our biggest project in this course was to make a project using Lego Spike Prime 
 Picture of our prototype:
 <img width="2142" height="1144" alt="IMG_5369" src="https://github.com/user-attachments/assets/993692bc-aebd-468f-b0a6-6c27e5165b03" />
 
+Picture of me using the arm to hold a can of monster:
+<img width="1080" height="1440" alt="Action_foto" src="https://github.com/user-attachments/assets/59cc25e1-ab64-42e0-8d7e-a0c404ac76b6" />
+
+
 #### Java programming exam
 For my final programming exam in a course about object oriented programming i was tasked with making an activity program where you could register activities like running, hiking, skiing and all sorts. You can also enter the text based UI to see a list of the activities registered, the users who registered them, groups they were in as well. Plus a lot of other activities.
 Link to repo: [Activity manager](https://github.com/NTNU-IDATG1003-2026/idatg1003-programming-autumn-2026-mappe-2026-thequate)
