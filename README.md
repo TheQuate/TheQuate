@@ -9,18 +9,25 @@ I am currently a student at NTNU and studying Data-engineering. On my free time 
 <!-- width = 764, height = 1271-->
 
 #### PowerShell scripts and fun programming:
-Most of my high qulity scripts are powershell atleast from before i started studying at NTNU. It ranges from usefull scripts in Active directory to something fun like beeping the imperial march from Star Wars. 
+Most of my high quality scripts are powershell atleast from before i started studying at NTNU. It ranges from usefull scripts in Active directory to something fun like beeping the imperial march from Star Wars. 
 [Powershell repo](https://github.com/TheQuate/Powershell-script-project)
 
 #### Projects from studies 
 WIP - currently working on several projects that are to be added.
 
 ##### Lego Spike prime project
-In our Teambased course we buildt some lego robots and learned how to work together as a team. It was very fun to work hands on with something i created and see what small changes in programming could do to a product. 
-Images of lego robots to be added (they are not done yet)
+In our Teambased course we built some lego robots and learned how to work together as a team. It was very fun to work hands on with something i created and see what small changes in programming could do to a product. 
+Our biggest project in this course was to make a project using Lego Spike Prime that adhered to the UN Sustainability goals, and was fun (most importantly). My group decided to make a "helping hand". A robot arm that would be able to help people with weakened arm/hand strength. The biggest part of the project was the report and the prototype built out of Lego. The project was coded in python which helped my experience with the language. 
+Picture of our prototype:
+<img width="2142" height="1144" alt="IMG_5369" src="https://github.com/user-attachments/assets/993692bc-aebd-468f-b0a6-6c27e5165b03" />
+
+#### Java programming exam
+For my final programming exam in a course about object oriented programming i was tasked with making an activity program where you could register activities like running, hiking, skiing and all sorts. You can also enter the text based UI to see a list of the activities registered, the users who registered them, groups they were in as well. Plus a lot of other activities.
+Link to repo: [Activity manager](https://github.com/NTNU-IDATG1003-2026/idatg1003-programming-autumn-2026-mappe-2026-thequate)
+
 
 #### Python and other projects
-Ofcourse as most programmers i have done som python programming. But aswell i have dablled in website design and other languages.
+Ofcourse as most programmers i have done some python programming. But aswell i have dablled in website design and other languages.
 [Some fun python scripts](https://github.com/TheQuate/PY-scripts)
 [Kalkulator in HTML (former school project)](https://github.com/TheQuate/Calculator-project)
 
