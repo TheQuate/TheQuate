@@ -29,6 +29,9 @@ Picture of me using the arm to hold a can of monster:
 For my final programming exam in a course about object oriented programming i was tasked with making an activity program where you could register activities like running, hiking, skiing and all sorts. You can also enter the text based UI to see a list of the activities registered, the users who registered them, groups they were in as well. Plus a lot of other activities.
 Link to repo: [Activity manager](https://github.com/NTNU-IDATG1003-2026/idatg1003-programming-autumn-2026-mappe-2026-thequate)
 
+#### Computer Architecture 
+With a focus on how programming languages handles integers. The project was worked on as a group and I had the task of explaining how integer numbers worked in python. It was pretty simple as python usually handles variables as an object. The project was done as a report and as an addendum a video explanation of the project.
+
 
 #### Python and other projects
 Ofcourse as most programmers i have done some python programming. But aswell i have dablled in website design and other languages.
